@@ -21,19 +21,19 @@
   --purple-800: #6F48C9;
 }
 
-@media screen and (min-width: 1281px) {
+@media screen and (max-width: 1440px) {
   html {
     font-size: 81.25%; // 14px
   }
 }
 
-@media (max-width: 1280px) {
+@media screen and (max-width: 1280px) {
   html {
     font-size: 75%;  // 12px
   }
 }
 
-@media (max-width: 1024px) {
+@media screen and (max-width: 1024px) {
   html {
     font-size: 75%; // 12px
   }
